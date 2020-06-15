@@ -1,3 +1,3 @@
 def trey(str)
-    str
+    str.upcase
 end
