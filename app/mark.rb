@@ -1,3 +1,3 @@
 def mark(str)
-    str
+    str.length
 end
