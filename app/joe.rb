@@ -1,3 +1,3 @@
 def joe(str)
-    str
+    str.upcase
 end
