@@ -1,3 +1,3 @@
 def niketa(str)
-    str
+    str.capitalize!
 end
