@@ -1,3 +1,3 @@
 def abel(str)
-    str
+    str.reverse
 end
