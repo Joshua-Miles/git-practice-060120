@@ -1,3 +1,3 @@
 def francisco(str)
-    str
+    str.to_i
 end
