@@ -4,10 +4,10 @@
 > `git clone https://github.com/Joshua-Miles/git-practice-060120`
 
 * Create a branch to make changes on
-> `git branch your-name`
+> `git branch Leonie`
 
 * Checkout (tell git to use) that branch
-> `git checkout your-name`
+> `git checkout Leonie`
 
 * Change the code. Find your file/method. It currently takes in a string, and returns it. Change the method to alter the string in any way
 
