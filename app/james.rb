@@ -1,3 +1,3 @@
 def james(str)
-    str
+   pp str.downcase
 end
