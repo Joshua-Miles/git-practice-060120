@@ -1,3 +1,3 @@
 def julio(str)
-    str
+    str.upcase
 end
