@@ -1,3 +1,3 @@
 def rey(str)
-    str
+    str.capitalize
 end
