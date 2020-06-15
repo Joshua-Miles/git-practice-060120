@@ -1,3 +1,3 @@
-def Leonie(str)
+def leonie(str)
     str
 end

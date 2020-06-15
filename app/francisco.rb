@@ -1,3 +1,3 @@
 def francisco(str)
-    str.to_i
+    str.capitalize
 end
